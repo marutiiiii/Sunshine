@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focused-history-457114-e7",
+  "private_key_id": "712b36ed2c039865544d5d9d5ec98500ee2014e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDIyyyraEZNi/A\nCQR2zBDR9E0g20QFet7AKYXOuSit7NA7LNK0NJJ48UUZph2Ef5EE+5Kr7rkal/D/\ncuIJu7oQEubKqylf57B0DXr+HLHzRPNdzCMXEPYngMqwEtcDJ/xevRPbGAijo73W\n2rSvuu0yO3T8SSDgfkt0p7lQh33y221zFDq2ttPBrlhRj3b/ZMxymFA6aAP1eCRR\nSyrJaoeTFUpu/hUT3kjuwChZsyBu0CceTJbpP10SKyLxtWRkqzHrz7YPwYPpZKgz\n7wfbmK+oI3qD88DpX8gtL8674yTw25YtalqtGXVxdTXy2BR2o8Ruc3074C/cTNwt\n39QsT+B/AgMBAAECggEAD4WTv566CsRZpf/RoBV5XQn+vJdUYM82OrjS0O+/gZ4t\nrhdRp03rPL2MTo79GBYBlhDgyNZTWP8vB1K/EiEhmre2LfbRcrR+P6z21JG5we0B\nIrvjKqmJuviuprTI75JVq7+Efc/6l/GlXxrEdpn61h0OoCa8+75wCBZzUimE5jVU\nLwB6l7oSoMAxuGXnrvx5G9h4fgq8QOYbl4PC8Jye8ns9UAGW3VdcZKCLNz92sD8n\nFmTLdwxoL/Q+WPCMhsBGkRlJIX9oNJQS5e2nGLdC32K7aKyWWi2oZx9Xe9MIFX86\nrR19UaHfCvfFehclmM/IrDNgGKFZzyR0xxMFRdQl4QKBgQD/VHJJ0LqLzjATvdpx\nMZ1ZiOidq4aNWjRZPdXWXVGrL944WTM5tSFJtx9pXbGJZb7dlQSquXNPb4ko6n89\nQF69r7QIj8NSPA9LqO0DTUkBMRKXd4z9vnf4uYJhMQ67Dd6S92JglAezYBCmSep+\nH8OVibJpvRomxnzQv4/hrGJw0QKBgQDDpkkTUB/RXS6wleLismsScva9e+nxyY5Q\nqxYi2pyXF1WHGPCtKbDIN4hla/BnwjZlgEA4Nq2xZIn/RhMqRRzNvYPTFAbzKc76\nhfjIxftusO9CDW7QlelN3dyKtEz6b0ZF7pIlQgQfO9TM2vBBI5aYef21v21Gl+MB\nF5j0LUIQTwKBgH1CWVsbGhkyCuX0crCrTW06PBv1pOm9ggbxzfD/EOyxbAwqvnWm\nBXGbc76GJ22nS45657I1jns+1YQMHmXXKWNXSjQVCxZRvpM4iSXgiVsbTuqdzL5C\n7apIn8y8e2SKtlFVKZ8FoA2AqEpb4r0DKjk3Nx6mlajGIT9ratOkdRqxAoGBAI4g\n6WsfRM36LGXZrOXUiRXw8C/8qZmdO0Z80urk9uaH6/jldEnHRIZeWTaccBtgKdYY\nkg6EIjABAoKwbFHDvUX0y6P2I4pYL+Usl+t6b8ocvOK2EW9zx/VqG8Gjc1xmo50/\nz2lDiO0LsO5Uij431TnVPSrf8klbI2xysQmJKznfAoGAa2s6766cY0TCXrJGsbkR\ntxnycN4tyEpy2kg6Bs6Ca2llohcS5MzclmcqTJKM8qvWqZveBrNH2nX0Y0tAlzYd\n3nWQE0IkReIbCCb9mv/WtcPPMNdAvb/OzUdHphA5as2ObyJprI6OnJ9MF0LBLj0+\n9axp0drp9BkklpjzARr51Ao=\n-----END PRIVATE KEY-----\n",
+  "client_email": "maruti-nimbalkar@focused-history-457114-e7.iam.gserviceaccount.com",
+  "client_id": "108562733751263557140",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maruti-nimbalkar%40focused-history-457114-e7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
